@@ -1,6 +1,6 @@
 <!-- HEADER / BANNER -->
 <div align="center" style="margin-bottom: 30px;">
-  <h1 style="font-size: 40px; color:#a855f7;">👩🏻‍💻 Flavinha</h1>
+  <h1 style="font-size: 40px; color:#a855f7;">Flavinha</h1>
   <h3 style="color:#6b21a8; font-weight:500;">Desenvolvedora Front-End Web & Mobile</h3>
   
   <p style="color:#4c1d95; font-size:15px; max-width:600px; line-height:22px;">
