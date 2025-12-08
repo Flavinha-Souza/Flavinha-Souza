@@ -21,9 +21,9 @@
 ">
   <h2 style="color:#7c3aed;">✨ Sobre mim</h2>
   <p style="color:#4c1d95; font-size:15px; line-height:22px;">
-    💜 Desenvolvedora com foco em Front-End e Mobile  
+    💜 Desenvolvedora com foco em Front-End web e Mobile  
     💡 Amante de UI/UX e de criar telas bonitas e funcionais  
-    🚀 Sempre estudando tecnologias modernas  
+    🚀 Sempre estudando tecnologias   
     🎀 Estilo de código limpo, organizado e criativo  
   </p>
 </div>
