@@ -33,7 +33,7 @@
 
 
 <!-- TECNOLOGIAS -->
-<h2 style="color:#7c3aed;">🛠️ Tecnologias</h2>
+<h2 style="color:#7c3aed;">🛠️ Tecnologias e Ferramentas</h2>
 <div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:30px;">
 
   <img height="40" src="https://skillicons.dev/icons?i=html" />
