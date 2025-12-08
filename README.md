@@ -31,6 +31,7 @@
 ---
 
 
+
 <!-- TECNOLOGIAS -->
 <h2 style="color:#7c3aed;">🛠️ Tecnologias</h2>
 <div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:30px;">
