@@ -21,10 +21,11 @@
 ">
   <h2 style="color:#7c3aed;">✨ Sobre mim</h2>
   <p style="color:#4c1d95; font-size:15px; line-height:22px;">
-    💜 Desenvolvedora com foco em Front-End web e Mobile  
-    💡 Amante de UI/UX e de criar telas bonitas e funcionais  
-    🚀 Sempre estudando tecnologias   
-    🎀 Estilo de código limpo, organizado e criativo  
+    
+     Desenvolvedora com foco em Front-End web e Mobile
+     Amante de UI/UX e de criar telas bonitas e funcionais  
+     Sempre estudando tecnologias   
+     Estilo de código limpo, organizado e criativo  
   </p>
 </div>
 
@@ -53,11 +54,6 @@
 ---
 
 
-<!--PACMAN-START-->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/pacman-contribution-graph.svg" style="background:black; border-radius:8px;" />
-</p>
-<!--PACMAN-END-->
 
 
 
