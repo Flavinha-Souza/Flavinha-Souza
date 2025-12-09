@@ -1,29 +1,74 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme_name: "MONOKAi"
+          theme_name: "MONOKAI" # opcional, mantém se quiser testar tema
 
+      - name: Ensure dist exists
+        run: |
+          ls -la
+          mkdir -p dist
+
+      - name: Fix SVG background and white elements
+        shell: bash
+        run: |
+          FILE="dist/pacman-contribution-graph.svg"
+
+          if [ ! -f "$FILE" ]; then
+            echo "Arquivo não encontrado em $FILE — listando dist:"
+            ls -la dist || true
+            # tenta procurar qualquer svg gerado
+            FOUND=$(find . -maxdepth 3 -type f -iname "*pacman*.svg" | head -n1)
+            if [ -n "$FOUND" ]; then
+              echo "Achado SVG alternativo: $FOUND — movendo para $FILE"
+              mv "$FOUND" "$FILE"
+            else
+              echo "SVG do Pacman não encontrado. Falhou." >&2
+              exit 1
+            fi
+          fi
+
+          echo "Inserindo retângulo preto de fundo (se ainda não existir) e corrigindo fills/strokes brancos..."
+          # Insere <rect width="100%" height="100%" fill="#000"/> logo após a abertura <svg ...>
+          # evita duplicar se já tiver um rect fill="#000"
+          if ! grep -qi '<rect[^>]*fill=["'\'']#000["'\'']' "$FILE"; then
+            sed -i '0,/<svg[^>]*>/s//&\n  <rect width="100%" height="100%" fill="#000" />/' "$FILE"
+          else
+            echo "Retângulo preto já presente, pulando inserção."
+          fi
+
+          # Substitui fills e strokes brancos por preto (várias variações)
+          sed -i -E 's/(fill|stroke)=(["'"'"''])(#?)(white|WHITE|White|#ffffff|#FFFFFF|#fff|#FFF)(\2)/\1=\2#000\2/g' "$FILE" || true
+          sed -i -E 's/(fill|stroke):\s*(white|#ffffff|#fff)/\1:#000/Ig' "$FILE" || true
+          sed -i -E 's/(fill|stroke)\s*=\s*([a-zA-Z]+)/\1="\2"/g' "$FILE" || true
+
+          # Remove possíveis estilos inline que forcem cor branca (e substitui)
+          sed -i -E 's/fill:\s*(white|#ffffff|#fff)/fill:#000/Ig' "$FILE" || true
+          sed -i -E 's/stroke:\s*(white|#ffffff|#fff)/stroke:#000/Ig' "$FILE" || true
+
+          echo "Correções aplicadas. Mostrando as primeiras linhas do SVG:"
+          head -n 40 "$FILE"
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
