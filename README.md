@@ -53,6 +53,14 @@
 ---
 
 
+<!--PACMAN-START-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/pacman-contribution-graph.svg" style="background:black; border-radius:8px;" />
+</p>
+<!--PACMAN-END-->
+
+
+
 <!-- CONTATO -->
 <h2 style="color:#7c3aed;">📫 Contato</h2>
 <p style="color:#4c1d95; font-size:15px;">
