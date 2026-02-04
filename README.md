@@ -5,7 +5,7 @@
   </h1>
 
   <h3 style="color:#a855f7; font-weight:500; margin-bottom:15px;">
-    Desenvolvedora Front-End Web
+    Desenvolvedora Web Front-End
   </h3>
 
   <p style="color:#e9d5ff; font-size:16px; max-width:620px; line-height:26px;">
