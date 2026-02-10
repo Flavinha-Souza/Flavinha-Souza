@@ -5,11 +5,11 @@
   </h1>
 
   <h3 style="color:#a855f7; font-weight:500; margin-bottom:15px;">
-    Desenvolvedora Web Front-End
+    Desenvolvedora Front-End
   </h3>
 
   <p style="color:#e9d5ff; font-size:16px; max-width:620px; line-height:26px;">
-    Criadora de interfaces intuitivas, focada em desenvolvimento Web.  
+    Criadora de interfaces intuitivas, focada em desenvolvimento Web e Mobile.  
     Sempre aprendendo, codando e evoluindo 🚀
   </p>
 </div>
@@ -24,7 +24,7 @@
   alt="Ilustração computador"
 />
 <ul>
-  <li>Desenvolvedora com foco em <b>Front-End Web</b></li>
+  <li>Desenvolvedora com foco em <b>Front-End</b></li>
   <li>Amante de <b>UI/UX</b> e de criar telas bonitas e funcionais</li>
   <li>Sempre estudando novas tecnologias</li>
   <li>Estilo de código limpo, organizado e criativo</li>
