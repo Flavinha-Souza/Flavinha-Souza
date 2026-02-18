@@ -58,12 +58,26 @@
 <!-- ESPAÇO -->
 <div style="height:60px;"></div>
 
+<div style="height:60px;"></div>
+
+
+
+<h2>🐍 Contribuições</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
+  <img 
+    alt="Snake contribution graph"
+    src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
+</picture>
 <!-- ESPAÇO -->
 <div style="height:60px;"></div>
 
 
-<!-- ESPAÇO -->
-<div style="height:60px;"></div>
+
 
 <!-- CONTATO -->
 <h2 style="color:#c084fc; font-size:26px; margin-bottom:15px;">
