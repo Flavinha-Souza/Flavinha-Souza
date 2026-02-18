@@ -58,36 +58,9 @@
 <!-- ESPAÇO -->
 <div style="height:60px;"></div>
 
-<!-- GITHUB STATS -->
-<h2 style="color:#c084fc; font-size:26px; margin-bottom:20px;">
-  📊 GitHub Stats
-</h2>
-
-<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
- 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Flavinha-Souza&theme=radical&hide_border=true"
-    height="160"
-  />
-</div>
-
 <!-- ESPAÇO -->
 <div style="height:60px;"></div>
 
-<!-- PACMAN -->
-<h2 style="color:#c084fc; font-size:26px; margin-bottom:20px;">
-  👾 Contribuições
-</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/pacman-contribution-graph.svg">
-  <img 
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/pacman-contribution-graph.svg">
-</picture>
 
 <!-- ESPAÇO -->
 <div style="height:60px;"></div>
