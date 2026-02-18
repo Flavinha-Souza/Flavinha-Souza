@@ -16,6 +16,7 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Flavinha-Souza
+          theme: dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
