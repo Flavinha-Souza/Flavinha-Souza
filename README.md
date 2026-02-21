@@ -70,8 +70,8 @@
   <source media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
   <img 
-    alt="Snake contribution graph"
-    src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
+  alt="Snake contribution graph"
+  src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg?cache=1">
 </picture>
 <!-- ESPAÇO -->
 <div style="height:60px;"></div>
