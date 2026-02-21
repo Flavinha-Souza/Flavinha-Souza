@@ -1,28 +1,34 @@
 <!-- HEADER -->
-<div align="center" style="margin-bottom:60px;">
+<div align="center">
+
   <h1 style="font-size:42px; color:#c084fc; margin-bottom:10px;">
     Flávia Souza
   </h1>
 
-  <h3 style="color:#a855f7; font-weight:500; margin-bottom:15px;">
-    Desenvolvedora Front-End
-  </h3>
+  <!-- TYPING NA PROFISSÃO -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=400&lines=Desenvolvedora+Front-End" 
+  />
 
-  <p style="color:#e9d5ff; font-size:16px; max-width:620px; line-height:26px;">
-    Criadora de interfaces intuitivas, focada em desenvolvimento Web e Mobile.  
+  <p style="max-width:620px; line-height:26px;">
+    Criadora de interfaces intuitivas, focada em desenvolvimento Web e Mobile.<br>
     Sempre aprendendo, codando e evoluindo 🚀
   </p>
+
 </div>
 
-<h2>✨ Sobre mim</h2>
+<br><br>
+
+<!-- SOBRE -->
+<h2 align="left">✨ Sobre mim</h2>
 
 <img
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-  width="300"
+  width="280"
   align="right"
-  hspace="50"
   alt="Ilustração computador"
 />
+
 <ul>
   <li>Desenvolvedora com foco em <b>Front-End</b></li>
   <li>Amante de <b>UI/UX</b> e de criar telas bonitas e funcionais</li>
@@ -30,18 +36,14 @@
   <li>Estilo de código limpo, organizado e criativo</li>
 </ul>
 
-<br clear="right" />
-
-
-<!-- ESPAÇO -->
-<div style="height:60px;"></div>
+<br clear="right"/>
+<br><br>
 
 <!-- TECNOLOGIAS -->
-<h2 style="color:#c084fc; font-size:26px; margin-bottom:20px;">
-  🛠️ Tecnologias e Ferramentas
-</h2>
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
-<div style="display:flex; flex-wrap:wrap; gap:14px;">
+<div align="center">
+
   <img height="45" src="https://skillicons.dev/icons?i=html" />
   <img height="45" src="https://skillicons.dev/icons?i=css" />
   <img height="45" src="https://skillicons.dev/icons?i=js" />
@@ -53,49 +55,59 @@
   <img height="45" src="https://skillicons.dev/icons?i=git" />
   <img height="45" src="https://skillicons.dev/icons?i=github" />
   <img height="45" src="https://skillicons.dev/icons?i=vscode" />
+
 </div>
 
-<!-- ESPAÇO -->
-<div style="height:60px;"></div>
+<br><br>
 
-<div style="height:60px;"></div>
+<!-- STREAK -->
+<h2 align="center">🔥 Stats</h2>
 
-
-
-<h2>🐍 Contribuições</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
+<div align="center">
   <img 
-  alt="Snake contribution graph"
-  src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg?cache=1">
-</picture>
-<!-- ESPAÇO -->
-<div style="height:60px;"></div>
+    src="https://streak-stats.demolab.com?user=Flavinha-Souza&theme=tokyonight&hide_border=true&cache_seconds=0" 
+  />
+</div>
 
+<br><br>
 
+<!-- SNAKE -->
+<h2 align="center">🐍 Contribuições</h2>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
+    <img 
+      alt="Snake contribution graph"
+      src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg?cache=2">
+  </picture>
+</div>
+
+<br><br>
 
 <!-- CONTATO -->
-<h2 style="color:#c084fc; font-size:26px; margin-bottom:15px;">
-  📫 Contato
-</h2>
+<h2 align="left">📫 Contato</h2>
 
-<p style="color:#e9d5ff; font-size:15px; line-height:26px;">
-  💼 <b>LinkedIn:</b> 
-  <a href="https://www.linkedin.com/in/flaviasouza-tech" target="_blank" style="color:#a855f7;">
-    linkedin.com/in/flaviasouza-tech
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/flaviasouza-tech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br>
-  📧 <b>Email:</b> fs942107@gmail.com
-</p>
+
+  <a href="mailto:fs942107@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</div>
+
+<br><br>
 
 <!-- FOOTER -->
-<div align="center" style="margin-top:60px;">
-  <i style="color:#a855f7; font-size:16px;">
+<div align="center">
+  <i>
     “Criando experiências bonitas com código, criatividade e dedicação.”
   </i>
 </div>
