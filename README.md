@@ -24,20 +24,19 @@
 
 <img
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-  width="280"
+  width="450"
   align="right"
   alt="Ilustração computador"
 />
 
 <ul>
   <li>Desenvolvedora com foco em <b>Front-End</b></li>
-  <li>Amante de <b>UI/UX</b> e de criar telas bonitas e funcionais</li>
+  <li>Amante de <b>UI/UX</b> e de criar telas bonitas e funcionais</li> 
   <li>Sempre estudando novas tecnologias</li>
   <li>Estilo de código limpo, organizado e criativo</li>
 </ul>
 
 <br clear="right"/>
-<br><br>
 
 <!-- TECNOLOGIAS -->
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
