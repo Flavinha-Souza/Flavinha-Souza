@@ -11,8 +11,9 @@
   />
 
   <p style="max-width:620px; line-height:26px;">
-    Criadora de interfaces intuitivas, focada em desenvolvimento Web e Mobile.<br>
-    Sempre aprendendo, codando e evoluindo 🚀
+    🎓 Estudante de Análise e Desenvolvimento de Sistemas 
+    
+💻 Foco em desenvolvimento Front-end  
   </p>
 
 </div>
