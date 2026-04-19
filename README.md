@@ -39,7 +39,10 @@
 <br>
 
 <!-- TECNOLOGIAS -->
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:wrench.svg?color=%23c084fc" width="20" style="vertical-align:middle;" />
+  Tecnologias e Ferramentas
+</h2>
 
 <div align="center">
 
@@ -60,22 +63,27 @@
 <br><br>
 
 <!-- STATS -->
-<h2 align="center" >
-  🔥 Estatísticas</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23c084fc" width="20" style="vertical-align:middle;" />
+  Estatísticas
+</h2>
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;">
 
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flavinha-Souza&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavinha-Souza&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flavinha-Souza&theme=tokyonight" />
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavinha-Souza&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <br>
 
-<br>
-
 <!-- GRAPH -->
-<h2 align="center">📈 Atividade no GitHub</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:trending-up.svg?color=%23c084fc" width="20" style="vertical-align:middle;" />
+  Atividade no GitHub
+</h2>
 
 <div align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flavinha-Souza&theme=tokyonight" />
@@ -84,7 +92,10 @@
 <br><br>
 
 <!-- SNAKE -->
-<h2 align="center">🐍 Contribuições</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:activity.svg?color=%23c084fc" width="20" style="vertical-align:middle;" />
+  Contribuições
+</h2>
 
 <div align="center">
   <picture>
@@ -101,13 +112,16 @@
 <br><br>
 
 <!-- CONTATO -->
-<h2 align="center">📫 Contato</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:mail.svg?color=%23c084fc" width="20" style="vertical-align:middle;" />
+  Contato
+</h2>
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/flaviasouza-tech" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp;&nbsp;
 
   <a href="mailto:fs942107@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
