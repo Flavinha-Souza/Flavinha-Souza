@@ -5,15 +5,13 @@
     Flávia Souza
   </h1>
 
-  <!-- TYPING NA PROFISSÃO -->
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=400&lines=Desenvolvedora+Front-End" 
   />
 
   <p style="max-width:620px; line-height:26px;">
-    🎓 Estudante de Análise e Desenvolvimento de Sistemas 
-    
-💻 Foco em desenvolvimento Front-end  
+    🎓 Estudante de Análise e Desenvolvimento de Sistemas <br/>
+    💻 Foco em desenvolvimento Front-end  
   </p>
 
 </div>
@@ -27,17 +25,18 @@
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
   width="450"
   align="right"
-  alt="Ilustração computador"
 />
 
 <ul>
   <li>Desenvolvedora com foco em <b>Front-End</b></li>
-  <li>Amante de <b>UI/UX</b> e de criar telas bonitas e funcionais</li> 
-  <li>Sempre estudando novas tecnologias</li>
-  <li>Estilo de código limpo, organizado e criativo</li>
+  <li>Amante de <b>UI/UX</b> e de criar interfaces modernas</li> 
+  <li>Sempre estudando e evoluindo com novas tecnologias</li>
+  <li>Código limpo, organizado e com atenção aos detalhes</li>
 </ul>
 
 <br clear="right"/>
+
+<br>
 
 <!-- TECNOLOGIAS -->
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
@@ -60,13 +59,25 @@
 
 <br><br>
 
-<!-- STREAK -->
-<h2 align="center">🔥 Stats</h2>
+<!-- STATS -->
+<h2 align="center">🔥 Estatísticas</h2>
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Flavinha-Souza&theme=tokyonight&hide_border=true&cache_seconds=0" 
-  />
+
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flavinha-Souza&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavinha-Souza&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<br>
+
+<!-- GRAPH -->
+<h2 align="center">📈 Atividade no GitHub</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flavinha-Souza&theme=tokyonight" />
 </div>
 
 <br><br>
@@ -82,7 +93,7 @@
       srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
     <img 
       alt="Snake contribution graph"
-      src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg?cache=2">
+      src="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
   </picture>
 </div>
 
