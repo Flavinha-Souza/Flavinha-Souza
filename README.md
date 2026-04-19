@@ -60,7 +60,7 @@
 <br><br>
 
 <!-- STATS -->
-<h2 align="center">🔥 Estatísticas</h2>
+<h2 align="center" >🔥 Estatísticas</h2>
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 <h2 align="center">📈 Atividade no GitHub</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flavinha-Souza&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flavinha-Souza&theme=tokyonight" />
 </div>
 
 <br><br>
@@ -88,7 +88,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake-dark.svg" >
     <source media="(prefers-color-scheme: light)" 
       srcset="https://raw.githubusercontent.com/Flavinha-Souza/Flavinha-Souza/output/snake.svg">
     <img 
@@ -100,16 +100,16 @@
 <br><br>
 
 <!-- CONTATO -->
-<h2 align="left">📫 Contato</h2>
+<h2 align="center">📫 Contato</h2>
 
-<div align="left">
+<div align="center">
 
   <a href="https://www.linkedin.com/in/flaviasouza-tech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:fs942107@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </div>
