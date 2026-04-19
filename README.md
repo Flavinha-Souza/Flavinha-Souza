@@ -60,7 +60,8 @@
 <br><br>
 
 <!-- STATS -->
-<h2 align="center" >🔥 Estatísticas</h2>
+<h2 align="center" >
+  🔥 Estatísticas</h2>
 
 <div align="center">
 
