@@ -21,7 +21,7 @@ jobs:
           github_user_name: Flavinha-Souza
           outputs: |
             dist/snake.svg 
-            dist/snake-dark.svg?palette=github-dark&color_snake=%23c084fc&color_dots=%23a855f7,%238b5cf6,%237c3aed
+            dist/snake-dark.svg?palette=github-dark&color_snake=%23a78bfa&color_dots=%233b0764,%235b21b6,%237c3aed
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
