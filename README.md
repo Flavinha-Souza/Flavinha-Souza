@@ -69,10 +69,11 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;">
 
+  <!-- GitHub Stats -->
   <img height="160"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flavinha-Souza&theme=tokyonight" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flavinha-Souza&theme=tokyonight&title_color=A855F7&text_color=A855F7" />
   <img height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavinha-Souza&layout=compact&theme=tokyonight&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavinha-Souza&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=A855F7" />
 
 </div>
 
