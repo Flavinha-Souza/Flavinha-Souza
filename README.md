@@ -11,7 +11,6 @@
 
   <p style="max-width:620px; line-height:26px;">
     🎓 Estudante de Análise e Desenvolvimento de Sistemas <br/>
-    💻 Foco em desenvolvimento Front-end  
   </p>
 
 </div>
@@ -29,7 +28,7 @@
 
 <ul>
   <li>Desenvolvedora com foco em <b>Front-End</b></li>
-  <li>Amante de <b>UI/UX</b> e de criar interfaces modernas</li> 
+  <li>Atenção à experiência do usuário durante a construção das interfaces</li>
   <li>Sempre estudando e evoluindo com novas tecnologias</li>
   <li>Código limpo, organizado e com atenção aos detalhes</li>
 </ul>
