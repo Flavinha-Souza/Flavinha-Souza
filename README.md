@@ -8,10 +8,7 @@
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=400&lines=Desenvolvedora+Front-End" 
   />
-
-  <p style="max-width:620px; line-height:26px;">
-    🎓 Estudante de Análise e Desenvolvimento de Sistemas <br/>
-  </p>
+  
   <p>
   <em>
     Não entrei na tecnologia porque sempre soube o que queria fazer.
@@ -33,10 +30,10 @@
 />
 
 <ul>
-  <li>Desenvolvedora com foco em <b>Front-End</b></li>
-  <li>Atenção à experiência do usuário durante a construção das interfaces</li>
-  <li>Sempre estudando e evoluindo com novas tecnologias</li>
-  <li>Código limpo, organizado e com atenção aos detalhes</li>
+  <li>💻 Desenvolvedora <b>Front-End</b></li>
+  <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
+  <li>❤️ Encontrei na programação algo que quero fazer por muito tempo</li>
+  <li>🌱 Aprendendo, construindo e evoluindo</li>
 </ul>
 
 <br clear="right"/>
