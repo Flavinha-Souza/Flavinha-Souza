@@ -12,6 +12,10 @@
   <p style="max-width:620px; line-height:26px;">
     🎓 Estudante de Análise e Desenvolvimento de Sistemas <br/>
   </p>
+  <i>
+Não entrei na tecnologia porque sempre soube o que queria fazer.
+Entrei por acaso e acabei encontrando aquilo que amo construir.
+</i>
 
 </div>
 
